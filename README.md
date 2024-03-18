@@ -1,4 +1,8 @@
-# CodingTestStudy-Test
+#   :small_orange_diamond: KEA 모각코 - 모의 코딩테스트 스터디  :small_orange_diamond:
+
+<br>
+
+## 스터디 진행 방식
 
 모의 코딩테스트를 진행하는 스터디입니다.
 
